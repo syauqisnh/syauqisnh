@@ -1,81 +1,46 @@
-<h1 align="center">Hi there 👋, I'm Syauqi Nur Hibatullah</h1>
-<h3 align="center">Full Stack Developer | Passionate about Backend Engineering & Clean Code</h3>
+<h1 align="center">Hi 👋, I'm Syauqi Nur Hibatullah</h1>
+<h3 align="center">Full Stack Developer</h3>
 
-<p align="center">
-  📍 Bengkulu, Indonesia 🇮🇩 <br/>
-  🎓 D3 Informatics Engineering – Universitas Sebelas Maret (UNS)<br/>
-  💻 Open to Full-time or Internship opportunities as a Backend or Full Stack Developer
-</p>
+📍 Bengkulu, Indonesia 🇮🇩  
+🎓 D3 Informatics Engineering – Universitas Sebelas Maret (UNS)  
+💼 Open to Freelance or Full-time opportunities in Full Stack Development
 
 ---
 
-### 🚀 About Me
-
-I'm a detail-oriented developer who enjoys building scalable backend systems and clean APIs using **Node.js**, **Laravel**, or **NestJS**, with a touch of frontend when needed using **React** or **Vue**. I'm passionate about **Clean Architecture**, **Domain-Driven Design**, and always strive to write maintainable code.
+Email Me ✉️ syauqisnh@gmail.com For Collaboration/Project or Anything Else. 😊
 
 ---
 
-### 🧰 Tech Stack & Tools
+### 🛠 Tech Stack & Tools
 
-<p align="center">
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="40" alt="PHP"/>
-  
-  <!-- Backend -->
-  <img src="https://nestjs.com/img/logo-small.svg" height="40" alt="NestJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
-  <img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/laravel-logomark-red.svg" height="40" alt="Laravel"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/codeigniter/codeigniter-plain.svg" height="40" alt="CodeIgniter"/>
-  
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="VueJS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="ReactJS"/>
-  
-  <!-- Databases -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" height="40" alt="Sequelize"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" height="40" alt="Prisma"/>
-  
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="40" alt="Postman"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/>
-</p>
+<!-- Languages -->
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
 
----
+<!-- Backend -->
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white" />
+<img src="https://img.shields.io/badge/CodeIgniter-E44D26?style=flat&logo=codeigniter&logoColor=white" />
 
-### 💼 Experience
+<!-- Frontend -->
+<img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB" />
 
-- **Backend Developer Intern – PT Kisun Kreasi Digital**  
-  Built a RESTful API for ERP Klinik (NestJS), and developed mobile features for Kluto App (React Native)
+<!-- Databases -->
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=white" />
 
-- **Full Stack Intern – CV Bekantan Jantan**  
-  Developed a company profile web builder using Node.js + Vue.js for MSMEs
-
-- **Frontend Intern – PT PLN (Persero)**  
-  Developed a monitoring dashboard using ReactJS and wrote technical documentation (SRS)
-
----
-
-### 🧠 Projects
-
-- **🩺 Doctor Chatbot & Scheduling System** – Final project (Node.js, Vue.js, MySQL)
-- **📅 GoEvent** – Laravel-based event management system with admin & participant roles
-- **🏫 LKP Heryati** – Course registration system using CodeIgniter 4
-- **🧵 Rumah Batik** – Product catalog website built with ReactJS
-- **🚌 E-Tiket Bus Mabour** – Simple ticket info system (PHP Native), Semester 2 project
-
----
-
-### 🌱 Currently Learning
-
-- 🛠️ NestJS + Jest Testing
-- 🗃️ PostgreSQL with Prisma ORM
-- 🧱 Clean Architecture & Domain-Driven Design
-- ⚙️ CI/CD workflow & deployment best practices
+<!-- Tools -->
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
 
 ---
 
@@ -84,5 +49,5 @@ I'm a detail-oriented developer who enjoys building scalable backend systems and
 <p align="center">
   <a href="https://instagram.com/syauqi.nh"><img src="https://img.shields.io/badge/@syauqi.nh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="mailto:syauqinur.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-syauqinur.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/yourusername"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/syauqi-nur-hibatullah-616497221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
