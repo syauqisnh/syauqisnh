@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Syauqi Nur Hibatullah</h1>
-<h3 align="center">Full Stack Developer</h3>
+<h3 align="center">Full Stack Developer | PHP & JavaScript Enthusiast </h3>
 
 📍 Bengkulu, Indonesia 🇮🇩  
 🎓 D3 Informatics Engineering – Universitas Sebelas Maret (UNS)  
@@ -12,6 +12,8 @@ Email Me ✉️ syauqisnh@gmail.com For Collaboration/Project or Anything Else. 
 ---
 
 ### 🛠 Tech Stack & Tools
+
+<p style="display: flex; flex-wrap: wrap; gap: 5px;">
 
 <!-- Languages -->
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
@@ -41,6 +43,8 @@ Email Me ✉️ syauqisnh@gmail.com For Collaboration/Project or Anything Else. 
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white" />
 <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
 <img src="https://img.shields.io/badge/VS Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+
+</p>
 
 ---
 
