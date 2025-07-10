@@ -48,6 +48,6 @@ Email Me ✉️ syauqisnh@gmail.com For Collaboration/Project or Anything Else. 
 
 <p align="center">
   <a href="https://instagram.com/syauqi.nh"><img src="https://img.shields.io/badge/@syauqi.nh-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="mailto:syauqinur.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-syauqinur.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:syauqisnh@gmail.com"><img src="https://img.shields.io/badge/Gmail-syauqisnh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/syauqi-nur-hibatullah-616497221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
