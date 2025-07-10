@@ -5,8 +5,6 @@
 🎓 D3 Informatics Engineering – Universitas Sebelas Maret (UNS)  
 💼 Open to Freelance or Full-time opportunities in Full Stack Development
 
----
-
 Email Me ✉️ syauqisnh@gmail.com For Collaboration/Project or Anything Else. 😊
 
 ---
